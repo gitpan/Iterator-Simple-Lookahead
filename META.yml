@@ -18,7 +18,7 @@ no_index:
     - t
     - inc
 requires:
-  Class::XSAccessor::Array: 1.08
+  Class::XSAccessor: 1.18
   Iterator::Simple: 0.06
   Test::More: 0.98
-version: 0.01
+version: 0.02
