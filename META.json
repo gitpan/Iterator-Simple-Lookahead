@@ -34,10 +34,11 @@
          "requires" : {
             "Class::XSAccessor" : "1.18",
             "Iterator::Simple" : "0.06",
+            "List::AllUtils" : "0.03",
             "Test::More" : "0.98"
          }
       }
    },
    "release_status" : "stable",
-   "version" : "0.02"
+   "version" : "0.03"
 }
